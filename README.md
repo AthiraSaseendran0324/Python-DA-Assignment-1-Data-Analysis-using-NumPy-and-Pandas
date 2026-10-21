@@ -34,7 +34,7 @@ Google Colab
 
 ### Assignment Tasks
 
-Part 1: NumPy Array Operations
+#### Part 1: NumPy Array Operations
 
 Create one-dimensional and two-dimensional arrays.
 
@@ -47,7 +47,7 @@ Calculate maximum, minimum, and mean temperatures.
 Perform array indexing and slicing.
 
 
-Part 2: Pandas Series Manipulation
+#### Part 2: Pandas Series Manipulation
 
 Create a Series with custom index labels.
 
@@ -60,7 +60,7 @@ Update and remove elements.
 Calculate CGPA by dividing marks by 10.
 
 
-Part 3: Pandas DataFrame Exploration and Manipulation
+#### Part 3: Pandas DataFrame Exploration and Manipulation
 
 Create a transaction DataFrame.
 
